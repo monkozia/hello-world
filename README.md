@@ -1,2 +1,6 @@
 # hello-world
-My repository where I will learn to github
+Hi earthlings...
+
+Cyberspace here.
+
+Bye now.
